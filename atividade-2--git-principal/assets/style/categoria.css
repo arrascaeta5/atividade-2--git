@@ -1,0 +1,87 @@
+#categoria{
+  
+}
+
+.categoria_h2{
+    text-align: center;
+    position: relative;
+    right:  150px;
+}
+
+.categoria_h1{
+    text-align: center;
+    position: relative;
+    right:  150px;
+}
+
+.categoria_img{
+
+    display: flex;
+    justify-content: space-between;
+    gap: 120px;
+    height: 100px;
+    position: relative;
+    right: 80px;
+ 
+   
+}
+
+.categoria_txt{
+  display: flex;
+ padding: 15px;
+ justify-content: space-between;
+
+
+
+}
+
+.categoria_an{
+    position: relative;
+    left: 50px;
+}
+
+.categoria2_an{
+    position: relative;
+    top: 40px;
+    right: 110px;
+}
+
+.categoria_av{
+    position: relative;
+    top: 40px;
+    right: 190px;
+    
+}
+
+.categoria_av2{
+    position: relative;
+    right: 35px;
+}
+
+.categoria_mic{
+    position: relative;
+    right: 115px;
+
+
+}
+
+.categoria_mic2{
+    position: relative;
+    top: 25px;
+    right: 235px;
+    
+}
+
+.categoria_engre{
+    position: relative;
+    right: 120px;
+}
+
+.categoria_engre2{
+    position: relative;
+    top: 20px;
+    right: 230px;
+
+}
+
+
