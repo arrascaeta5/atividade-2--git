@@ -1,0 +1,39 @@
+
+.titulos_destinos{
+    position: relative;
+    top: 100px;
+    right: 150px;
+
+
+}
+
+.titulos_destinos h4{
+    position: relative;
+    left: 56px;
+    font-family: "Poppins", sans-serif;
+    color: #5E6282;
+    font-weight: 100;
+
+}
+
+.titulos_destinos h1{
+    text-transform: uppercase ;
+    color: #14183E;
+    position: relative;
+    right: 40px;
+    top: 15px;
+
+}
+
+
+
+.destino{
+  
+    position: relative;
+    top: 200px;
+    right: 170px;
+
+    
+}
+
+
