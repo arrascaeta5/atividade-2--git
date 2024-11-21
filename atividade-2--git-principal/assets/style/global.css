@@ -6,4 +6,6 @@
 
 body{
     background-image: url("../image/Travel\ Agency\ Landing\ Page\ UI.png");
+    position: relative;
+    left:  100px;
 }

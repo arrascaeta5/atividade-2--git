@@ -7,6 +7,14 @@
 }
 
 
+
+.inicio_lado_direito {
+    position: relative;
+    left: 35px ;
+
+}
+
+
 .img1{
   
     width: 35%;
@@ -37,7 +45,7 @@
     position: relative;
     top: -250px;
     padding: 15px;
-right: 550px;
+right: 450px;
 
 
 }
@@ -75,7 +83,7 @@ right: 550px;
     position: relative;
     top: -250px;
     padding-top: 15px;
-    right: 550px;
+    right: 350px;
    
 }
 
